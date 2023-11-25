@@ -76,13 +76,13 @@ def update():
         time.sleep(0.5)
         psb("    \033[92m[\033[37m!\033[92m] \033[37mUpdating Tool: ", end="")
         
-        os.system("cd .. && rm -rf SMS-B && git clone https://github.com/dnan232/SMS-B.git > /dev/null 2>&1")
+        os.system("cd .. && rm -rf AHS && git clone https://github.com/dnan232/SMS-B.git > /dev/null 2>&1")
         
         print("\033[37mDone")
         psb("\n    \033[92m[\033[37m*\033[92m] \033[37mStarting Tool...")
         time.sleep(0.8)
         
-        os.system("cd .. && cd SMS-B && python Tbomb.py")
+        os.system("cd .. && cd AHS && python Tbomb.py")
     
     else:
         if (authorMsg != newMsg) and (newMsg != "blank"):
