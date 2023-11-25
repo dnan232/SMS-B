@@ -1,8 +1,8 @@
 #########################################
-# ToxicBomber
+# SMS-B
 # A Bangladeshi SMS Bomber Tool
-# Author: ToxicNoob Inc.
-# GitHub: https://github.com/Toxic-Noob
+# Author: AHS.
+# GitHub: https://github.com/dnan232/
 # Version: 4.1.0
 #########################################
 
