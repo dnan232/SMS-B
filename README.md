@@ -29,7 +29,7 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone https://github.com/dnan232/SMS.B.git
 cd ToxicBomber
 python Tbomb.py
 ```
