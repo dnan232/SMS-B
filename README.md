@@ -1,4 +1,4 @@
-![ToxicBomber](https://h.top4top.io/p_2611gbau61.jpg)
+![c570c690-de82-4f53-b4b9-fdb4eec3c064](https://github.com/dnan232/SMS.B/assets/123298353/99bc86d8-af54-48d8-8812-137f6620d47c)
 <p align="center">Most Updated SMS Bomber For Bangladeshi Numbers</p>
 
 ## Note:
@@ -41,13 +41,6 @@ python Tbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
+<li> Via <a href="mailto: ahsafiyt9@gmail.com">Email</a>
 
 
-# Screenshots:
-<img src="https://a.top4top.io/p_2556qdsww0.jpg" alt="ToxicBomber ScreenShot">
-<img src="https://c.top4top.io/p_2556dzaf30.jpg" alt="ToxicBomber ScreenShot">
-
-### Visitors :
-
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
